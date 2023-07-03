@@ -7,6 +7,6 @@ Graham Roll
 5.Salmon 3 peaces
 6.cilantro leaf 8 peaces
 direction : 
-roll the roll as you where a engineer designer, please please do not change the recipes, if you want to change the recipe please create your own recipe and depley it. thank you for understanding this. any question please refers to the main chef. i am sure that will have answer for you.
-
+{ Roll the roll as you where a Engineer Designer, please please do not  change the recipes, If you want to change the recipe please create your  own recipe and deploy it. thank you for understanding this. any question please refers to the main chef. i am sure that will have answer for you.
+}
 
